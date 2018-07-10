@@ -1,0 +1,31 @@
+{
+  "name": "fullstackpractice",
+  "version": "1.0.0",
+  "description": "Building a full-stack contacts 'app' from scratch. Utilizing AngularJS, NodeJS, Express and either MySQL or MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilnmartin/Full-Stack-Practice.git"
+  },
+  "author": "neilnmartin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilnmartin/Full-Stack-Practice/issues"
+  },
+  "homepage": "https://github.com/neilnmartin/Full-Stack-Practice#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-validator":"*",
+    "nodemon":"*",
+    "bluebird":"*",
+    "ejs":"*",
+    "body-parser":"*",
+    "sqlite3":"*",
+    "request":"*",
+    "live-server": "*",
+    "jquery": "^3.2.0"
+  }
+}
